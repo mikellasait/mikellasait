@@ -1,4 +1,4 @@
-![MasterHead](https://arkasoft-buckets.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-6.jpg)
+
 <h1 align="center">Hi 👋, I'm Mikel Lasa</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
