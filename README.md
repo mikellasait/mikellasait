@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Anything related to coding**
 
-- 📫 How to reach me [Linkedin]([https://github.com/mikellasait/nest-template](https://www.linkedin.com/in/mikellasapizarroit/) | **mikellasait@gmail.com**
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/mikellasapizarroit/) | **mikellasait@gmail.com**
 
 - ⚡ Fun fact **Coding has over 700 languages 🤔**
 
